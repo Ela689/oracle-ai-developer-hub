@@ -15,5 +15,6 @@ Explore these VecDB-focused Jupyter notebooks for guided workflows that showcase
 | HNSW Index Tuning | Oracle VecDB, Python, SentenceTransformers | Build an explicit HNSW index, monitor VecDB jobs, and demonstrate how `efsearch` controls candidate beam width per query. | [Open](./index_model/hnsw-efsearch-demo.ipynb) |
 | Index & Model Workbench | Oracle VecDB, Python, Pandas | Manage index lifecycle, inspect hosted models, and capture annotation governance patterns in one workflow. | [Open](./index_model/index-model-workbench.ipynb) |
 | Bulk Loading & Listings | Oracle VecDB, Python, Pandas | Demonstrate the three bulk-ingest flows—integrated embeddings, BYO vectors with manual IDs, and BYO vectors with auto IDs—while monitoring load jobs and listing results. | [Open](./bulk_loading/) |
+| Private AI Services Container Integration | Oracle VecDB, Private AI Services Container, Python | Generate embeddings with a private AI services endpoint, store vectors in a BYOV table, and query Oracle documentation chunks. | [Open](./private_ai_service_container/private_ai_services_container_integration.ipynb) |
 
 Need full application samples? Visit the [Sample Apps](../../apps/vecdb) catalog.
